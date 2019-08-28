@@ -9,3 +9,4 @@
 * [Puppeteer API Tip-Of-Tree](https://github.com/GoogleChrome/puppeteer/blob/master/docs/api.md)
 
 * [中文 API](https://zhaoqize.github.io/puppeteer-api-zh_CN/#?product=Puppeteer&version=v1.11.0&show=outline)
+* [ptt-parser](https://github.com/realdennis/ptt-parser)使用Puppeteer的ptt爬蟲
